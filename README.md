@@ -1,2 +1,2 @@
 # portfolio
-Site: www.edivad.art
+Site: edivad.art
